@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>Hola Mundo</h1>
-    <h3>Muchas gracias Angel</h3>
+    <h3>Clase Divertida</h3>
 </body>
 </html>

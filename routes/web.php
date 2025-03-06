@@ -12,8 +12,11 @@ Route::get('/home', function () {
     return view('home');
 });
 
-Route::get('/contac', [MessageController::class, 'create']);
+//Route::get('/contac', [MessageController::class, 'create']);
 
-Route::post('/crear-contacto', [MessageController::class, 'store']);
+//Route::post('/crear-contacto', [MessageController::class, 'store']);
 
+//Route::get('/messages', [MessageController::class, 'index']);
+
+//Route::resource('message', MessageController::class);
 
