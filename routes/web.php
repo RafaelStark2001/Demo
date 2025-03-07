@@ -18,5 +18,5 @@ Route::get('/home', function () {
 
 //Route::get('/messages', [MessageController::class, 'index']);
 
-//Route::resource('message', MessageController::class);
+Route::resource('message', MessageController::class);
 
